@@ -1,0 +1,13 @@
+services:
+  demcafe:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      ADMIN_USER: admin
+      ADMIN_PASSWORD: "buraya-guclu-bir-parola-yazin"
+    volumes:
+      - demcafe-data:/data
+volumes:
+  demcafe-data:

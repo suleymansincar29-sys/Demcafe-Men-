@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<defs>
+<radialGradient id="bg" cx="50%" cy="38%" r="75%"><stop offset="0" stop-color="#F4EDDD"/><stop offset="1" stop-color="#D4C29C"/></radialGradient>
+<linearGradient id="glass" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset=".35" stop-color="#fff" stop-opacity=".12"/><stop offset=".8" stop-color="#fff" stop-opacity=".05"/><stop offset="1" stop-color="#fff" stop-opacity=".4"/></linearGradient>
+<linearGradient id="porc" x1="0" x2="1"><stop offset="0" stop-color="#E9DCCB"/><stop offset=".3" stop-color="#FFF9F0"/><stop offset=".7" stop-color="#FFFDF8"/><stop offset="1" stop-color="#E4D3BE"/></linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#bg)"/>
+<circle cx="70" cy="60" r="90" fill="#fff" opacity=".18"/>
+<circle cx="350" cy="250" r="110" fill="#2B1A12" opacity=".05"/>
+<ellipse cx="200" cy="256" rx="128" ry="14" fill="#2B1A12" opacity=".16"/>
+<ellipse cx="200" cy="200" rx="150" ry="64" fill="#E6D5C0"/><ellipse cx="200" cy="194" rx="136" ry="54" fill="url(#porc)"/>
+<path d="M150 170 c-30 -20 10 -46 40 -30 c30 -16 62 10 40 32 c16 22 -26 40 -50 26 c-26 14 -58 -6 -30 -28Z" fill="#fff"/>
+<circle cx="190" cy="170" r="17" fill="#F5A623"/><circle cx="184" cy="164" r="5" fill="#fff" opacity=".6"/>
+<circle cx="262" cy="176" r="16" fill="#E2453C"/><circle cx="262" cy="176" r="10" fill="#F27A6E"/><circle cx="282" cy="196" r="16" fill="#E2453C"/><circle cx="282" cy="196" r="10" fill="#F27A6E"/><circle cx="258" cy="206" r="16" fill="#E2453C"/><circle cx="258" cy="206" r="10" fill="#F27A6E"/>
+<circle cx="118" cy="196" r="13" fill="#6E9B4E"/><circle cx="118" cy="196" r="9" fill="#D8EBA8"/><circle cx="138" cy="214" r="13" fill="#6E9B4E"/><circle cx="138" cy="214" r="9" fill="#D8EBA8"/>
+<g fill="#2B2420"><ellipse cx="220" cy="218" rx="8" ry="6"/><ellipse cx="236" cy="224" rx="8" ry="6"/><ellipse cx="204" cy="228" rx="8" ry="6"/></g>
+<rect x="150" y="204" width="34" height="24" rx="4" fill="#FFFBF0" stroke="#EADFC8"/>
+</svg>

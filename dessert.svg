@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<defs>
+<radialGradient id="bg" cx="50%" cy="38%" r="75%"><stop offset="0" stop-color="#F6EAD8"/><stop offset="1" stop-color="#DFC198"/></radialGradient>
+<linearGradient id="glass" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset=".35" stop-color="#fff" stop-opacity=".12"/><stop offset=".8" stop-color="#fff" stop-opacity=".05"/><stop offset="1" stop-color="#fff" stop-opacity=".4"/></linearGradient>
+<linearGradient id="porc" x1="0" x2="1"><stop offset="0" stop-color="#E9DCCB"/><stop offset=".3" stop-color="#FFF9F0"/><stop offset=".7" stop-color="#FFFDF8"/><stop offset="1" stop-color="#E4D3BE"/></linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#bg)"/>
+<circle cx="70" cy="60" r="90" fill="#fff" opacity=".18"/>
+<circle cx="350" cy="250" r="110" fill="#2B1A12" opacity=".05"/>
+<ellipse cx="200" cy="256" rx="128" ry="14" fill="#2B1A12" opacity=".16"/>
+<ellipse cx="200" cy="222" rx="150" ry="36" fill="#E6D5C0"/><ellipse cx="200" cy="216" rx="136" ry="28" fill="url(#porc)"/>
+<g transform="translate(150 196)">
+<path d="M0 -30 L44 0 L0 30 L-44 0Z" fill="#C98A3A"/><path d="M0 -30 L44 0 L0 8 L-44 0Z" fill="#E2A955"/>
+<path d="M-30 -2 L0 -22 L30 -2 L0 4Z" fill="#7FA23E"/><g fill="#A3C25A"><circle cx="-8" cy="-8" r="3"/><circle cx="8" cy="-6" r="2.5"/><circle cx="0" cy="-14" r="2"/></g>
+<path d="M-44 0 L0 30 L44 0 L44 6 L0 36 L-44 6Z" fill="#9A6428"/></g><g transform="translate(200 186)">
+<path d="M0 -30 L44 0 L0 30 L-44 0Z" fill="#C98A3A"/><path d="M0 -30 L44 0 L0 8 L-44 0Z" fill="#E2A955"/>
+<path d="M-30 -2 L0 -22 L30 -2 L0 4Z" fill="#7FA23E"/><g fill="#A3C25A"><circle cx="-8" cy="-8" r="3"/><circle cx="8" cy="-6" r="2.5"/><circle cx="0" cy="-14" r="2"/></g>
+<path d="M-44 0 L0 30 L44 0 L44 6 L0 36 L-44 6Z" fill="#9A6428"/></g><g transform="translate(250 196)">
+<path d="M0 -30 L44 0 L0 30 L-44 0Z" fill="#C98A3A"/><path d="M0 -30 L44 0 L0 8 L-44 0Z" fill="#E2A955"/>
+<path d="M-30 -2 L0 -22 L30 -2 L0 4Z" fill="#7FA23E"/><g fill="#A3C25A"><circle cx="-8" cy="-8" r="3"/><circle cx="8" cy="-6" r="2.5"/><circle cx="0" cy="-14" r="2"/></g>
+<path d="M-44 0 L0 30 L44 0 L44 6 L0 36 L-44 6Z" fill="#9A6428"/></g><g transform="translate(200 214)">
+<path d="M0 -30 L44 0 L0 30 L-44 0Z" fill="#C98A3A"/><path d="M0 -30 L44 0 L0 8 L-44 0Z" fill="#E2A955"/>
+<path d="M-30 -2 L0 -22 L30 -2 L0 4Z" fill="#7FA23E"/><g fill="#A3C25A"><circle cx="-8" cy="-8" r="3"/><circle cx="8" cy="-6" r="2.5"/><circle cx="0" cy="-14" r="2"/></g>
+<path d="M-44 0 L0 30 L44 0 L44 6 L0 36 L-44 6Z" fill="#9A6428"/></g>
+</svg>

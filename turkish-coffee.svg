@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<defs>
+<radialGradient id="bg" cx="50%" cy="38%" r="75%"><stop offset="0" stop-color="#F4E4D2"/><stop offset="1" stop-color="#D6B392"/></radialGradient>
+<linearGradient id="glass" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset=".35" stop-color="#fff" stop-opacity=".12"/><stop offset=".8" stop-color="#fff" stop-opacity=".05"/><stop offset="1" stop-color="#fff" stop-opacity=".4"/></linearGradient>
+<linearGradient id="porc" x1="0" x2="1"><stop offset="0" stop-color="#E9DCCB"/><stop offset=".3" stop-color="#FFF9F0"/><stop offset=".7" stop-color="#FFFDF8"/><stop offset="1" stop-color="#E4D3BE"/></linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#bg)"/>
+<circle cx="70" cy="60" r="90" fill="#fff" opacity=".18"/>
+<circle cx="350" cy="250" r="110" fill="#2B1A12" opacity=".05"/>
+<ellipse cx="200" cy="256" rx="128" ry="14" fill="#2B1A12" opacity=".16"/>
+<ellipse cx="200" cy="232" rx="120" ry="22" fill="#E6D5C0"/><ellipse cx="200" cy="228" rx="106" ry="16" fill="url(#porc)"/>
+<path d="M248 168 c28 -2 28 34 -4 32" fill="none" stroke="#EADBC8" stroke-width="10" stroke-linecap="round"/>
+<path d="M150 150 H250 C250 198 232 226 200 226 C168 226 150 198 150 150Z" fill="url(#porc)"/>
+<path d="M152 172 H248" stroke="#C8823A" stroke-width="7"/><g fill="#2B1A12"><circle cx="160" cy="172" r="2"/><circle cx="176" cy="172" r="2"/><circle cx="192" cy="172" r="2"/><circle cx="208" cy="172" r="2"/><circle cx="224" cy="172" r="2"/><circle cx="240" cy="172" r="2"/></g>
+<ellipse cx="200" cy="150" rx="50" ry="11" fill="#EFE2D2"/><ellipse cx="200" cy="151" rx="44" ry="8" fill="#B88A5C"/>
+<g fill="#D9B48A" opacity=".9"><circle cx="186" cy="150" r="3"/><circle cx="206" cy="148" r="2.5"/><circle cx="214" cy="153" r="2"/><circle cx="194" cy="154" r="2"/></g>
+<g transform="translate(286 196) rotate(-8)"><rect x="0" y="0" width="30" height="26" rx="5" fill="#F2B8C6"/><rect x="0" y="0" width="30" height="8" rx="4" fill="#fff" opacity=".7"/></g>
+<g transform="translate(300 214) rotate(10)"><rect x="0" y="0" width="28" height="24" rx="5" fill="#FBF3E8"/><rect x="0" y="0" width="28" height="7" rx="4" fill="#fff"/></g>
+<g fill="none" stroke="#fff" stroke-linecap="round" stroke-width="4" opacity=".75">
+<path d="M185.6 122 c-12 -16 12 -24 0 -42"/><path d="M201.6 116 c-12 -16 12 -24 0 -46"/><path d="M217.6 122 c-12 -16 12 -24 0 -38"/></g>
+</svg>

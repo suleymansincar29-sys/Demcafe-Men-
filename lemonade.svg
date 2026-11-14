@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<defs>
+<radialGradient id="bg" cx="50%" cy="38%" r="75%"><stop offset="0" stop-color="#F7F0D8"/><stop offset="1" stop-color="#DCCB95"/></radialGradient>
+<linearGradient id="glass" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset=".35" stop-color="#fff" stop-opacity=".12"/><stop offset=".8" stop-color="#fff" stop-opacity=".05"/><stop offset="1" stop-color="#fff" stop-opacity=".4"/></linearGradient>
+<linearGradient id="porc" x1="0" x2="1"><stop offset="0" stop-color="#E9DCCB"/><stop offset=".3" stop-color="#FFF9F0"/><stop offset=".7" stop-color="#FFFDF8"/><stop offset="1" stop-color="#E4D3BE"/></linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#bg)"/>
+<circle cx="70" cy="60" r="90" fill="#fff" opacity=".18"/>
+<circle cx="350" cy="250" r="110" fill="#2B1A12" opacity=".05"/>
+<ellipse cx="200" cy="256" rx="128" ry="14" fill="#2B1A12" opacity=".16"/>
+<linearGradient id="lem" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFF4B8"/><stop offset="1" stop-color="#F2CF5B"/></linearGradient>
+<path d="M140 84 H260 L246 246 H154Z" fill="url(#lem)"/>
+<rect x="162" y="98" width="28" height="28" rx="6" fill="#fff" opacity=".42" transform="rotate(10 176 112)"/><rect x="204" y="110" width="28" height="28" rx="6" fill="#fff" opacity=".42" transform="rotate(-18 218 124)"/><rect x="176" y="150" width="24" height="24" rx="6" fill="#fff" opacity=".42" transform="rotate(24 188 162)"/>
+<g fill="#6E9B4E"><path d="M186 92 c-18 -26 6 -40 22 -30 c-4 16 -10 24 -22 30Z"/><path d="M196 94 c24 -18 40 2 30 16 c-14 -2 -22 -8 -30 -16Z" fill="#87B064"/></g>
+<line x1="150" y1="30" x2="186" y2="170" stroke="#6E9B4E" stroke-width="11" stroke-linecap="round"/>
+<line x1="150" y1="30" x2="186" y2="170" stroke="#fff" stroke-width="11" stroke-linecap="round" stroke-dasharray="7 9" opacity=".7"/>
+<g transform="translate(252 96)"><circle r="36" fill="#F6D44E"/><circle r="30" fill="#FFF3A6"/><line x1="0" y1="-28" x2="0" y2="28" stroke="#F6D44E" stroke-width="3" transform="rotate(0)"/><line x1="0" y1="-28" x2="0" y2="28" stroke="#F6D44E" stroke-width="3" transform="rotate(45)"/><line x1="0" y1="-28" x2="0" y2="28" stroke="#F6D44E" stroke-width="3" transform="rotate(90)"/><line x1="0" y1="-28" x2="0" y2="28" stroke="#F6D44E" stroke-width="3" transform="rotate(135)"/><circle r="5" fill="#F6D44E"/></g>
+<path d="M140 84 H260 L246 246 H154Z" fill="url(#glass)" stroke="#fff" stroke-opacity=".85" stroke-width="3"/>
+</svg>

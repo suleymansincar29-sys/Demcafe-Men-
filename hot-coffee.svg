@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<defs>
+<radialGradient id="bg" cx="50%" cy="38%" r="75%"><stop offset="0" stop-color="#F7EBDD"/><stop offset="1" stop-color="#E3CDB4"/></radialGradient>
+<linearGradient id="glass" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset=".35" stop-color="#fff" stop-opacity=".12"/><stop offset=".8" stop-color="#fff" stop-opacity=".05"/><stop offset="1" stop-color="#fff" stop-opacity=".4"/></linearGradient>
+<linearGradient id="porc" x1="0" x2="1"><stop offset="0" stop-color="#E9DCCB"/><stop offset=".3" stop-color="#FFF9F0"/><stop offset=".7" stop-color="#FFFDF8"/><stop offset="1" stop-color="#E4D3BE"/></linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#bg)"/>
+<circle cx="70" cy="60" r="90" fill="#fff" opacity=".18"/>
+<circle cx="350" cy="250" r="110" fill="#2B1A12" opacity=".05"/>
+<ellipse cx="200" cy="256" rx="128" ry="14" fill="#2B1A12" opacity=".16"/>
+<ellipse cx="200" cy="236" rx="132" ry="24" fill="#E6D5C0"/><ellipse cx="200" cy="232" rx="118" ry="18" fill="url(#porc)"/>
+<path d="M268 160 c38 -6 40 46 -6 44" fill="none" stroke="#EADBC8" stroke-width="14" stroke-linecap="round"/>
+<path d="M126 148 H274 C274 206 246 234 200 234 C154 234 126 206 126 148Z" fill="url(#porc)"/>
+<ellipse cx="200" cy="148" rx="74" ry="16" fill="#EFE2D2"/><ellipse cx="200" cy="149" rx="64" ry="12" fill="#7A4E33"/>
+<path d="M200 158 c-14 -8 -24 -14 -16 -20 c6 -4 13 0 16 4 c3 -4 10 -8 16 -4 c8 6 -2 12 -16 20Z" fill="#F3E9DC" opacity=".95"/>
+<path d="M140 168 C150 210 175 224 200 226" stroke="#fff" stroke-width="6" fill="none" opacity=".6" stroke-linecap="round"/>
+<g fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5" opacity=".75">
+<path d="M182 118 c-12 -16 12 -24 0 -42"/><path d="M202 112 c-12 -16 12 -24 0 -46"/><path d="M222 118 c-12 -16 12 -24 0 -38"/></g>
+</svg>

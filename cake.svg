@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+<defs>
+<radialGradient id="bg" cx="50%" cy="38%" r="75%"><stop offset="0" stop-color="#F7E6E2"/><stop offset="1" stop-color="#DDBDB2"/></radialGradient>
+<linearGradient id="glass" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset=".35" stop-color="#fff" stop-opacity=".12"/><stop offset=".8" stop-color="#fff" stop-opacity=".05"/><stop offset="1" stop-color="#fff" stop-opacity=".4"/></linearGradient>
+<linearGradient id="porc" x1="0" x2="1"><stop offset="0" stop-color="#E9DCCB"/><stop offset=".3" stop-color="#FFF9F0"/><stop offset=".7" stop-color="#FFFDF8"/><stop offset="1" stop-color="#E4D3BE"/></linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#bg)"/>
+<circle cx="70" cy="60" r="90" fill="#fff" opacity=".18"/>
+<circle cx="350" cy="250" r="110" fill="#2B1A12" opacity=".05"/>
+<ellipse cx="200" cy="256" rx="128" ry="14" fill="#2B1A12" opacity=".16"/>
+<ellipse cx="200" cy="236" rx="140" ry="24" fill="#E6D5C0"/><ellipse cx="200" cy="232" rx="126" ry="18" fill="url(#porc)"/>
+<path d="M110 150 L290 112 L290 214 L110 230Z" fill="#E9C48A"/>
+<path d="M110 168 L290 134 L290 146 L110 182Z" fill="#FFF9F0"/><path d="M110 196 L290 166 L290 178 L110 210Z" fill="#C2263A" opacity=".85"/>
+<path d="M110 150 L290 112 L290 122 L110 162Z" fill="#FFF9F0"/>
+<path d="M110 150 L210 92 L290 112Z" fill="#FFF3E6"/>
+<path d="M110 150 L210 92 L290 112" fill="none" stroke="#fff" stroke-width="3"/>
+<g transform="translate(206 84)"><path d="M0 -18 C20 -18 22 6 0 18 C-22 6 -20 -18 0 -18Z" fill="#D62839"/><g fill="#FFE08A"><circle cx="-6" cy="-6" r="1.4"/><circle cx="6" cy="-4" r="1.4"/><circle cx="0" cy="6" r="1.4"/><circle cx="-8" cy="4" r="1.4"/><circle cx="8" cy="6" r="1.4"/></g><path d="M-8 -18 L0 -24 L8 -18" stroke="#5E8C4A" stroke-width="5" fill="none" stroke-linecap="round"/></g>
+</svg>
